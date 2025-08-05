@@ -1,0 +1,15 @@
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.exe
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.deps.json
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifier.dll
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\kanda\Downloads\dcit318-assignment1-11038463\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifier.dll
